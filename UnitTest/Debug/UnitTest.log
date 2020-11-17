@@ -1,0 +1,4 @@
+﻿  UnitTest.cpp
+C:\Users\User\OneDrive\Визуал\ASTD2.1\ASTD2.1\Sort.cpp(54,12): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\User\OneDrive\Визуал\ASTD2.1\ASTD2.1\Sort.cpp(24): warning C4715: BinarySearch: значение возвращается не при всех путях выполнения
+  UnitTest.vcxproj -> C:\Users\User\OneDrive\Визуал\ASTD2.1\Debug\UnitTest.dll
